@@ -1,4 +1,4 @@
-<img width="1550" height="742" alt="sodoketnoiesp8266" src="https://github.com/user-attachments/assets/0b737819-4056-4628-9e1d-70f379ac8ce6" /># 🚗 Hệ Thống Xe Tự Hành Điều Khiển Bằng Giọng Nói
+Hệ Thống Xe Tự Hành Điều Khiển Bằng Giọng Nói
 
 ## Giới thiệu
 
@@ -72,7 +72,7 @@
 
 ### Sơ đồ phần cứng
 
-<img src="img/sodoketnoiesp8266" width="600">
+<img src="img/sodoketnoiesp8266.jpg" width="600">
 
 <img src="img/sodoketnoivoil298n.png" width="600">
 
