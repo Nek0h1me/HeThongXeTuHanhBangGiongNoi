@@ -66,15 +66,15 @@
 
 ## Sơ đồ hệ thống
 
-<img src="img/sodokhoi" width="600">
+<img src="img/sodokhoi.png" width="600">
 
-<img src="img/sodoluong" width="600">
+<img src="img/sodoluong.png" width="600">
 
 ### Sơ đồ phần cứng
 
 <img src="img/sodoketnoiesp8266" width="600">
 
-<img src="img/sodoketnoivoil298n" width="600">
+<img src="img/sodoketnoivoil298n.png" width="600">
 
 ## Cài đặt
 
@@ -123,7 +123,7 @@ CAR_IP = "http://192.168.1.7"
 - Tự động phát hiện vật cản.
 - Hệ thống hoạt động thời gian thực.
 
-<img src="img/ketqua" width="600">
+<img src="img/ketqua.png" width="600">
 ## Hướng phát triển
 
 - Tích hợp Camera AI.
