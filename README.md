@@ -1,4 +1,4 @@
-# 🚗 Hệ Thống Xe Tự Hành Điều Khiển Bằng Giọng Nói
+<img width="1550" height="742" alt="sodoketnoiesp8266" src="https://github.com/user-attachments/assets/0b737819-4056-4628-9e1d-70f379ac8ce6" /># 🚗 Hệ Thống Xe Tự Hành Điều Khiển Bằng Giọng Nói
 
 ## Giới thiệu
 
@@ -66,29 +66,15 @@
 
 ## Sơ đồ hệ thống
 
-```text
-Giọng nói
-     │
-     ▼
-Python + Speech Recognition
-     │
-     ▼
- Wi-Fi
-     │
-     ▼
- ESP8266
-     │ UART
-     ▼
- Arduino Uno
-     │
-     ▼
- L298N Driver
-     │
-     ▼
- Động cơ DC
+<img src="img/sodokhoi" width="600">
 
-HC-SR04 ─────► Arduino
-```
+<img src="img/sodoluong" width="600">
+
+### Sơ đồ phần cứng
+
+<img src="img/sodoketnoiesp8266" width="600">
+
+<img src="img/sodoketnoivoil298n" width="600">
 
 ## Cài đặt
 
@@ -137,6 +123,7 @@ CAR_IP = "http://192.168.1.7"
 - Tự động phát hiện vật cản.
 - Hệ thống hoạt động thời gian thực.
 
+<img src="img/ketqua" width="600">
 ## Hướng phát triển
 
 - Tích hợp Camera AI.
