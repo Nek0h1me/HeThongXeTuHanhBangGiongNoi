@@ -147,7 +147,7 @@ CAR_IP = "http://192.168.1.7"
 
 ## Tác giả
 
-Nguyễn Đình Tùng
+Nguyễn Cao Tùng
 
 ## Giấy phép
 
